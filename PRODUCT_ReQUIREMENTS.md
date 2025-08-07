@@ -127,3 +127,17 @@
 -   Mobile responsive UI
 -   Role-based dashboards
 -   Check-in scanner using QR
+
+Create Wireframes and Mockups for Your Application
+Pages (Planned for MVP):
+Homepage (list of events)
+
+Event Details Page
+
+Registration Page
+
+Ticket Confirmation Page
+
+Organizer Dashboard (create/view events, see registrations)
+
+Admin Panel (user/event management)
